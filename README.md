@@ -6,8 +6,8 @@ StudentID : 61070017
 
 Name : Kittiwat Eamkijkarn
 
-> King mongkut's institute of technology ladkrabang
+> https://www.kmitl.ac.th
 
 ```sh
-print("Hello world")
+print("Hello Ladkrabang")
 ```
