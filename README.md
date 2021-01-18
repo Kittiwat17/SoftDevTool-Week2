@@ -6,6 +6,7 @@ StudentID : 61070017
 
 Name : Kittiwat Eamkijkarn
 
+<<<<<<< HEAD
 > [IT @ KMITL](https://www.it.kmitl.ac.th)
 
 ```sh
